@@ -67,3 +67,6 @@ but you can browse to any folder.
    happy with it.
 3. If anything looks wrong afterwards, open the **Log / Undo** tab and hit
    **Undo Last Run**.
+
+
+   The Organizer may freeze when you start a scan don't close it as it's still working 
