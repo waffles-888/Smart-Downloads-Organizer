@@ -49,6 +49,7 @@ This tool removes the friction from all three parts of that problem, safely.
 ## Requirements
 
 - Python 3.8+
+- Tkinter
 
 ## Running it
 
